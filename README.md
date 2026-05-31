@@ -1,2 +1,13 @@
 # c-caclc
 Calculator in pure c by pure vim. OG programming.
+
+## Goal
+Feel how it was to program in pure C by clear vim. Also it helps to write code with full understanding what are you doing.
+
+## Features
+It's very CLI coclulator. Just summurize, subtruct, multipy and divide.
+
+## Instalation
+If you need fast CLI calculator:
+'''bash
+git clone 
