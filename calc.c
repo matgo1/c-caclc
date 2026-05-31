@@ -1,6 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
-
+#include<stdio.h>
+#include<stdlib.h>
+#include<stdbool.h>
 bool is_valid(char c)
 {
     char valid_opers[] = "+-*/"; 
