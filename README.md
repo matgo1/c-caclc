@@ -10,4 +10,11 @@ It's very CLI coclulator. Just summurize, subtruct, multipy and divide.
 ## Instalation
 If you need fast CLI calculator:
 '''bash
-git clone 
+git clone https://github.com/matgo1/c-caclc.git
+cd c-calc
+make
+./calc
+```
+
+## Future plans
+Maybe I'll add more functions in the future or rewrite this in rust🦀 with better parsing 
